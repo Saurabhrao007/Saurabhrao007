@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Saurabh
-- 👀 I’m interested in solving weird problems 
+👋 Hi, I’m Saurabh
+
